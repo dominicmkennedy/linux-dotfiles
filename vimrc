@@ -52,6 +52,7 @@ Plug 'lyuts/vim-rtags'
 Plug 'mbbill/undotree'
 Plug 'scrooloose/nerdtree'
 Plug 'kien/ctrlp.vim'
-Plug 'Valloric/YouCompleteMe'
+Plug 'ajh17/VimCompletesMe'
+"Plug 'Valloric/YouCompleteMe'
 
 call plug#end()
